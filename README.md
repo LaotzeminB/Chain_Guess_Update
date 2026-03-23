@@ -17,6 +17,19 @@ ChainGuess es un protocolo de juego on-chain desarrollado en Rust con el framewo
 
 ChainGuess elimina la necesidad de intermediarios en los juegos de azar. El contrato actúa como un "Escrow" inteligente que retiene la apuesta inicial y solo libera los fondos cuando se verifica matemáticamente que el usuario ha adivinado el número secreto.
 
+## 🎨 Interfaz de Usuario (Frontend Mockup)
+
+Para complementar la lógica on-chain, se ha diseñado una experiencia de usuario (UX) moderna y de alta fidelidad en **Figma**. El diseño está optimizado para la navegación Web3, facilitando la conexión de wallets y la interacción con el contrato inteligente.
+
+* **Prototipo Interactivo:** [Explorar Diseño en Figma](https://www.figma.com/make/QVKkmzSjYEK1mxfVhmYxLm/Web3-Crypto-Dashboard?t=nw0C7RNujayO4dre-1)
+
+### Componentes Diseñados:
+* **Dashboard de Usuario:** Visualización en tiempo real de balances en SOL y estadísticas de juego.
+* **Módulo de Apuestas:** Interfaz limpia para el ingreso de predicciones (inputs) y ejecución de transacciones.
+* **Leaderboard dinámico:** Diseño pensado para mostrar el ranking de ganadores extrayendo datos de las cuentas del programa.
+
+---
+
 🏗️ Arquitectura del Contrato
 
 Program Derived Addresses (PDAs)
