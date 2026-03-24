@@ -1,4 +1,11 @@
 # 🎰 ChainGuess | Solana Hackathon 2026
+
+### 📺 Video de Presentación 
+[![Ver Video en YouTube]([https://img.shields.io/badge/YouTube-Video_Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/qhyHN7py9WI](https://youtu.be/8S8hOtjEoe4?si=qegAYZ8ujf0CLytD))
+
+> **Mira el video de 3 minutos donde explico la lógica del Smart Contract, el despliegue en Devnet y el diseño de la dApp.**
+
+---
 > **A high-performance, decentralized gaming protocol built on Solana.**
 
 [![Solana Devnet](https://img.shields.io/badge/Solana-Devnet-14F195?style=for-the-badge&logo=solana&logoColor=black)](https://explorer.solana.com/?cluster=devnet)
