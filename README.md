@@ -1,16 +1,16 @@
 # 🎰 ChainGuess | Solana Hackathon 2026
 
 ---
+
+### 📺 Video de Presentación y Demo
+[![Ver Video en YouTube](https://img.shields.io/badge/YouTube-Video_Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/8S8hOtjEoe4?si=CXmxTQCwgLWe5OKD)
+
+---
 > **A high-performance, decentralized gaming protocol built on Solana.**
 
 [![Solana Devnet](https://img.shields.io/badge/Solana-Devnet-14F195?style=for-the-badge&logo=solana&logoColor=black)](https://explorer.solana.com/?cluster=devnet)
 [![Framework: Anchor](https://img.shields.io/badge/Framework-Anchor_0.29.0-38429F?style=for-the-badge)](https://www.anchor-lang.com/)
 [![Language: Rust](https://img.shields.io/badge/Language-Rust-DEA584?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
-
----
-
-### 📺 Video de Presentación y Demo
-[![Ver Video en YouTube](https://img.shields.io/badge/YouTube-Video_Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/8S8hOtjEoe4?si=CXmxTQCwgLWe5OKD)
 
 ---
 
@@ -64,4 +64,5 @@ Plaintext
 ├── tests/chain_guess.test.ts        # Pruebas de integración (TypeScript)
 ├── client/app.ts                    # Script de interacción de cliente
 └── target/                          # Artefactos de compilación (BPF)
-Desarrollado para el Solana Hackathon 2026. Innovando en la transparencia de los juegos de azar mediante tecnología blockchain.
+```
+##Desarrollado para el Solana Hackathon 2026. Innovando en la transparencia de los juegos de azar mediante tecnología blockchain.
